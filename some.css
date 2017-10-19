@@ -1,0 +1,19 @@
+fieldset {
+  padding-right: 200px;
+  margin-right: 800px;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+#submiter {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+#nothin {
+  display: none;
+}
+
+p {}
