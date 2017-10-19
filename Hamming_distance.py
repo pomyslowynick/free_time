@@ -11,4 +11,4 @@ def hammingDistance(x, y):
     return dist
 
 
-print(hammingDistance(1, 63))
+print(hammingDistance(245673, 7890))
