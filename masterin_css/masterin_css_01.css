@@ -1,0 +1,14 @@
+.media-block {
+  background-color: #gray;
+  border: solid 1px black;
+}
+
+.media-fig {
+  float: left;
+  width: 30%;
+}
+
+.media_body {
+  float: right;
+  width: 65%;
+}
